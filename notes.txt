@@ -1,0 +1,5 @@
+steps in the minimax algorithm:
+the numbers are 1 for a win, -1 for a loss, and 0 for a tie game
+
+the highest algorithm takes in a state and returns the move with the highest score from the moves that the lowest function returns
+the lowest function takes the lowest score from all the moves that the highest functions returns
